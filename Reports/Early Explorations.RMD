@@ -1,0 +1,8 @@
+---
+title: "Early Explorations"
+author: "SN de Koning"
+date: "24 maart 2017"
+output: html_document
+---
+
+To be filled
