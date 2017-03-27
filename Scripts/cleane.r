@@ -14,3 +14,7 @@ set.seed(2432017)
 
 # Getting data.
 
+source("./Scripts/loade.r")
+
+raw.test <- GetData(1)
+raw.train <- GetData(2)

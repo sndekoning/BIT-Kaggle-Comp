@@ -5,4 +5,26 @@ date: "24 maart 2017"
 output: html_document
 ---
 
-To be filled
+### 1 Introduction
+
+This report will detail the first explorations on the dataset provided through the Kaggle.com competition *House Prices: Advanced Regression Techniques*. 
+
+The final goal of this competition is to create a predicition algorythm for the prices of houses in Ames, Iowa, based on 79 variables. The test set consists of 1459 observations, while the training set consists of 1460 observations. 
+
+For a concise description of the different variables please refer to the data_description.txt file enclosed in the repository.
+
+# Early descriptions
+
+# Dependencies
+
+```{r, eval=FALSE}
+
+library(magrittr)
+library(stringr)
+library(dplyr)
+library(tidyr)
+library(stringr)
+library(data.table)
+
+```
+
